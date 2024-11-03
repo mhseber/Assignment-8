@@ -3,7 +3,7 @@ import { AiOutlineHeart } from "react-icons/ai";
 const Navbar = () => {
 
     return (
-        <div className="navbar  p-3 border-4 bg-[#9538E2] w-[1240px] h-[594px] m-10 rounded-xl">
+        <div className="navbar   border- bg-[#9538E2] w-[1240px] h-[594px] m-10 rounded-xl">
 
             <div className="navbar-start pb-80">
                 <div className="dropdown">
@@ -29,10 +29,10 @@ const Navbar = () => {
                         <li><a>Dashboard</a></li>
                     </ul>
                 </div>
-                <a className="text-white font-extrabold text-3xl">Gadget Heaven</a>
+                <a className="text-white font-extrabold text-3xl mb-40">Gadget Heaven</a>
             </div>
             <div className="navbar-center hidden lg:flex pb-80 ">
-                <ul className="menu menu-horizontal px-1 text-white font-bold ">
+                <ul className="menu menu-horizontal px-1 text-white font-bold mb-40 ">
                     <li><a>Home</a></li>
                     <li><a>Statistics</a></li>
                     <li><a>Dashboard</a></li>
@@ -40,7 +40,7 @@ const Navbar = () => {
             </div>
             {/* icons */}
             <div className="navbar-end pb-80">
-                <div className=" flex text-2xl gap-3 pr-6">
+                <div className=" flex text-2xl gap-3 pr-6 mb-40">
                     <p className="border-2 bg-white rounded-full p-2"><IoCartOutline /></p>
                     <p className="border-2 bg-white rounded-full p-2"><AiOutlineHeart /></p>
                 </div>
