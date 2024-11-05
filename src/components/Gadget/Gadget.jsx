@@ -4,7 +4,7 @@ import React from 'react';
 const Gadget = ({ gadget }) => {
     const { product_image, product_title, price } = gadget;
     return (
-        <div className="card  w-80 shadow-xl p-4">
+        <div className="card  lg:w-80 shadow-xl p-4">
             <figure className='bg-gray-100'>
                 <img
                     src={product_image}

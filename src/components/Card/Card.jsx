@@ -16,7 +16,7 @@ const Card = () => {
             <div>
                 <h1 className="text-3xl font-bold flex justify-center items-center pt-6 text-[#9538E2]">Explore Cutting-Edge Gadgets</h1>
             </div >
-            <section className="flex mt-7 pl-8 gap-4">
+            <section className="lg:flex mt-7 pl-8 gap-4">
                 <div className="border  bg-white w-60 h-[400px] rounded-lg shadow-xl shadow-violet-500  ">
                     <button className="btn bg-slate-100 text-purple-400 ml-6 mt-2 w-[192px] rounded-full font-medium text-sm">All Product</button>
                     <button className="btn bg-slate-100 text-purple-400 ml-6 mt-2 w-[192px] rounded-full font-medium text-sm">Laptops</button>

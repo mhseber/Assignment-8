@@ -9,7 +9,7 @@ const Footer = () => {
 
                 </div>
 
-                <div className="flex gap-40">
+                <div className="flex lg:gap-40">
                     <div>
                         <h6 className="footer-title text-purple-900">Services</h6>
                         <a className="link link-hover pt-4 text-gray-500 ">Product Support</a>

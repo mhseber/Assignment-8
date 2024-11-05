@@ -17,10 +17,10 @@ H> Props (Properties).
 I> Components.
 J> JSX (JavaScript XML).
 
-4.  5 features of your website/project.
+4.  5 features of my website/project.
 
 A> Multi-Page Navigation.
 B> Dynamic Routing.
 C> Nested Routes.
-D> Tailwind CSS and daisyUi use easy
-E> 
+D> Tailwind CSS and daisyUi use easy.
+E> Custom 404 and Redirect Pages.
