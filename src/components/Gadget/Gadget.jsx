@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaDollarSign } from "react-icons/fa";
+
 
 const Gadget = ({ gadget }) => {
     const { product_image, product_title, price } = gadget;
@@ -8,7 +8,7 @@ const Gadget = ({ gadget }) => {
             <figure className='bg-gray-100'>
                 <img
                     src={product_image}
-                    className='h-[166px] p-4 rounded-3xl '
+                    className='h-[176px] p-4 rounded-3xl '
                     alt="Gadget" />
             </figure>
             <div className="card-body">
