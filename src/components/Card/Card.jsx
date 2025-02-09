@@ -1,4 +1,4 @@
-import { data } from "autoprefixer";
+
 import { useEffect, useState } from "react";
 import Gadget from "../Gadget/Gadget";
 

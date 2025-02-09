@@ -10,6 +10,7 @@ import Home from './components/Home/Home';
 import MainLayout from './Layout/MainLayout';
 import Statistics from './components/Statistics/Statistics';
 import Dashboard from './components/Dashboard/Dashboard';
+import ViewDetails from './Pages/ViewDetails';
 
 
 const router = createBrowserRouter([
@@ -30,6 +31,10 @@ const router = createBrowserRouter([
         path: 'dashboard',
         element: <Dashboard></Dashboard>,
       },
+      {
+        path: 'viewDetails',
+        element: <ViewDetails></ViewDetails>
+      }
     ]
   },
 ]);
