@@ -1,0 +1,66 @@
+[
+    {
+        "product_id": "P004",
+        "product_title": "4K Ultra HD TV",
+        "product_image": "https://i.ibb.co.com/BjXXH12/images-removebg-preview.png",
+        "category": "Electronics",
+        "price": 499.99,
+        "description": "A stunning 55-inch 4K Ultra HD TV with smart features.",
+        "Specification": [
+            "55 inches",
+            "4K UHD",
+            "Smart TV",
+            "HDR"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P006",
+        "product_title": "Stainless Steel Water Bottle",
+        "product_image": "https://i.ibb.co.com/PcG1tK6/download-removebg-preview.png",
+        "category": "Outdoor",
+        "price": 19.99,
+        "description": "Eco-friendly, insulated water bottle keeps drinks hot or cold.",
+        "Specification": [
+            "Stainless steel",
+            "Insulated",
+            "BPA-free",
+            "500ml capacity"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P007",
+        "product_title": "Gaming Headphone",
+        "product_image": "https://i.ibb.co.com/GxpmRZ6/images-removebg-preview-1.png",
+        "category": "Personal Care",
+        "price": 39.99,
+        "description": "Electric toothbrush with multiple modes and long battery life.",
+        "Specification": [
+            "Rechargeable",
+            "3 brushing modes",
+            "Smart timer",
+            "Soft bristles"
+        ],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": "P009",
+        "product_title": "Gaming Casing",
+        "product_image": "https://i.ibb.co.com/Ns8ZYqZ/download-removebg-preview-1.png",
+        "category": "Kitchen",
+        "price": 29.99,
+        "description": "Compact portable blender, perfect for smoothies and shakes on the go.",
+        "Specification": [
+            "USB rechargeable",
+            "300ml capacity",
+            "Detachable cup",
+            "Powerful motor"
+        ],
+        "availability": true,
+        "rating": 4.5
+    }
+]
