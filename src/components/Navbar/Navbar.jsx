@@ -1,7 +1,7 @@
 import { IoCartOutline } from "react-icons/io5";
 import { AiOutlineHeart } from "react-icons/ai";
 import { Link } from "react-router-dom";
-const Navbar = () => {
+const Navbar = ({ cartCount }) => {
     const links = <>
         <li><Link to="/">Home</Link></li>
         <li><Link to="/statistics">Statistics</Link></li>
@@ -42,7 +42,13 @@ const Navbar = () => {
             {/* icons */}
             <div className="navbar-end pb-80">
                 <div className=" flex text-2xl gap-3 pr-6 lg:mb-40">
-                    <p className="border-2 bg-white rounded-full p-2"><IoCartOutline /></p>
+                    {/* <p className="border-2 bg-white rounded-full p-2"><IoCartOutline /></p> */}
+                    <p className="border-2 bg-white rounded-full p-2 relative">
+                        <IoCartOutline />
+                        {cartCount > 0 && (
+                            <span className="absolute top-0 right-0 bg-red-500 text-white text-xs rounded-full px-2">{cartCount}</span>
+                        )}
+                    </p>
                     <p className="border-2 bg-white rounded-full p-2"><AiOutlineHeart /></p>
                 </div>
             </div>

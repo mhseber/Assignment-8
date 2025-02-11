@@ -1,0 +1,97 @@
+[
+    {
+        "product_id": "P001",
+        "product_title": "Wireless Earbuds",
+        "product_image": "https://i.ibb.co.com/Lh0xpCg/614h-H1-Cot3-L-removebg-preview.png",
+        "category": "Electronics",
+        "price": 49.99,
+        "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+        "Specification": [
+            "Bluetooth 5.0",
+            "Noise Cancelling",
+            "10-hour battery life",
+            "Water-resistant"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P002",
+        "product_title": "Smartphone Stand",
+        "product_image": "https://i.ibb.co.com/5RSN0YP/metal-universal-mobile-stand-32076986047604-removebg-preview.png",
+        "category": "Accessories",
+        "price": 15.99,
+        "description": "Adjustable smartphone stand, perfect for watching videos or video calls.",
+        "Specification": [
+            "Adjustable height",
+            "Anti-slip base",
+            "Universal fit"
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "P003",
+        "product_title": "Gaming Laptop",
+        "product_image": "https://i.ibb.co.com/6Bpdg4m/combo-400-removebg-preview.png",
+        "category": "Computers",
+        "price": 999.99,
+        "description": "Powerful gaming laptop with high-end graphics and fast processor.",
+        "Specification": [
+            "Intel i7",
+            "16GB RAM",
+            "512GB SSD",
+            "NVIDIA GTX 1660"
+        ],
+        "availability": false,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P004",
+        "product_title": "4K Ultra HD TV",
+        "product_image": "https://i.ibb.co.com/BjXXH12/images-removebg-preview.png",
+        "category": "Electronics",
+        "price": 499.99,
+        "description": "A stunning 55-inch 4K Ultra HD TV with smart features.",
+        "Specification": [
+            "55 inches",
+            "4K UHD",
+            "Smart TV",
+            "HDR"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P007",
+        "product_title": "Gaming Headphone",
+        "product_image": "https://i.ibb.co.com/GxpmRZ6/images-removebg-preview-1.png",
+        "category": "Personal Care",
+        "price": 39.99,
+        "description": "Electric toothbrush with multiple modes and long battery life.",
+        "Specification": [
+            "Rechargeable",
+            "3 brushing modes",
+            "Smart timer",
+            "Soft bristles"
+        ],
+        "availability": false,
+        "rating": 4.4
+    },
+    {
+        "product_id": "P008",
+        "product_title": "Gaming Mouse",
+        "product_image": "https://i.ibb.co.com/MpYrhBh/images-removebg-preview-2.png",
+        "category": "Fitness",
+        "price": 24.99,
+        "description": "Durable, non-slip yoga mat ideal for all types of yoga and exercise.",
+        "Specification": [
+            "Non-slip",
+            "Eco-friendly material",
+            "6mm thickness",
+            "Easy to clean"
+        ],
+        "availability": true,
+        "rating": 4.1
+    }
+]
