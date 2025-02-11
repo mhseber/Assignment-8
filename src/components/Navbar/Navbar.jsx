@@ -6,7 +6,7 @@ const Navbar = ({ cartCount }) => {
         <li><Link to="/">Home</Link></li>
         <li><Link to="/statistics">Statistics</Link></li>
         <li><Link to="/dashboard">Dashboard</Link></li>
-        <li><Link to="/">oooo</Link></li>
+        <li><Link to="/contact">Contact</Link></li>
     </>
     return (
         <div className="navbar  border- bg-[#9538E2] lg:w-[1240px] lg:h-[594px] lg:m-10 mt-2 p-2 rounded-xl">
@@ -35,7 +35,7 @@ const Navbar = ({ cartCount }) => {
                 <a className="text-white font-extrabold lg:text-3xl text-xl lg:mb-40">Gadget Heaven</a>
             </div>
             <div className="navbar-center hidden lg:flex pb-80 ">
-                <ul className="menu menu-horizontal px-1 text-white font-bold mb-40 ">
+                <ul className="menu menu-horizontal px-1 text-white  font-bold mb-40 ">
                     {links}
                 </ul>
             </div>
@@ -43,13 +43,18 @@ const Navbar = ({ cartCount }) => {
             <div className="navbar-end pb-80">
                 <div className=" flex text-2xl gap-3 pr-6 lg:mb-40">
                     {/* <p className="border-2 bg-white rounded-full p-2"><IoCartOutline /></p> */}
-                    <p className="border-2 bg-white rounded-full p-2 relative">
-                        <IoCartOutline />
-                        {cartCount > 0 && (
-                            <span className="absolute top-0 right-0 bg-red-500 text-white text-xs rounded-full px-2">{cartCount}</span>
-                        )}
-                    </p>
-                    <p className="border-2 bg-white rounded-full p-2"><AiOutlineHeart /></p>
+                    <Link to="/dashboard">
+                        <p className="border-2 bg-white rounded-full p-2 relative">
+                            <IoCartOutline />
+                            {cartCount > 0 && (
+                                <span className="absolute top-0 right-0 bg-red-500 text-white text-xs rounded-full px-2">{cartCount}</span>
+                            )}
+                        </p>
+                    </Link>
+                    <Link to="/dashboard">
+                        <p className="border-2 bg-white rounded-full p-2"><AiOutlineHeart /></p>
+                    </Link>
+
                 </div>
             </div>
         </div>
