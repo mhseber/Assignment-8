@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import BannerImg from '/img/banner.jpg'
 const Hero = () => {
     return (
@@ -7,7 +8,9 @@ const Hero = () => {
                 <p className="py-6  text-white font-semibold">
                     Explore the latest gadgets that will take your experience to the next level. From smart devices to the coolest accessories, we have it all!
                 </p>
-                <button className="btn bg-white text-[#9538E2] font-semibold text-xl rounded-full lg:w-[168px] lg:ml-96 ml-20">Shop Now</button>
+                <Link to="/viewDetails">
+                    <button className="btn bg-white text-[#9538E2] font-semibold text-xl rounded-full lg:w-[168px] lg:ml-96 ml-20">Shop Now</button>
+                </Link>
             </div>
             <div className="lg:ml-64  ">
                 <img className=" w-[800px] h-[400px] rounded-3xl pt-4 shadow-xl shadow-violet-500" src={BannerImg} alt="" />

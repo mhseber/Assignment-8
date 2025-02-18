@@ -3,16 +3,15 @@
         "product_id": "P001",
         "product_title": "Wireless Earbuds",
         "product_image": "https://i.ibb.co.com/Lh0xpCg/614h-H1-Cot3-L-removebg-preview.png",
-        "category": "Electronics",
+        "category": "Accessories",
         "price": 49.99,
-        "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+        "description": "High-quality wireless earbuds with immersive sound and active noise cancellation.",
         "Specification": [
             "Bluetooth 5.0",
-            "Noise Cancelling",
+            "Active Noise Cancelling",
             "10-hour battery life",
             "Water-resistant"
         ],
-        "availability": true,
         "rating": 4.5
     },
     {
@@ -21,29 +20,27 @@
         "product_image": "https://i.ibb.co.com/5RSN0YP/metal-universal-mobile-stand-32076986047604-removebg-preview.png",
         "category": "Accessories",
         "price": 15.99,
-        "description": "Adjustable smartphone stand, perfect for watching videos or video calls.",
+        "description": "Durable and adjustable smartphone stand, perfect for hands-free usage.",
         "Specification": [
             "Adjustable height",
             "Anti-slip base",
-            "Universal fit"
+            "Universal compatibility"
         ],
-        "availability": true,
         "rating": 4.2
     },
     {
         "product_id": "P003",
         "product_title": "Gaming Laptop",
         "product_image": "https://i.ibb.co.com/6Bpdg4m/combo-400-removebg-preview.png",
-        "category": "Computers",
+        "category": "Laptop",
         "price": 999.99,
-        "description": "Powerful gaming laptop with high-end graphics and fast processor.",
+        "description": "High-performance gaming laptop with top-tier graphics and fast refresh rate.",
         "Specification": [
-            "Intel i7",
+            "Intel Core i7",
             "16GB RAM",
             "512GB SSD",
-            "NVIDIA GTX 1660"
+            "NVIDIA GTX 1660 Ti"
         ],
-        "availability": false,
         "rating": 4.7
     },
     {
@@ -52,14 +49,13 @@
         "product_image": "https://i.ibb.co.com/BjXXH12/images-removebg-preview.png",
         "category": "Electronics",
         "price": 499.99,
-        "description": "A stunning 55-inch 4K Ultra HD TV with smart features.",
+        "description": "A 55-inch smart TV with stunning 4K UHD resolution and HDR support.",
         "Specification": [
-            "55 inches",
-            "4K UHD",
-            "Smart TV",
-            "HDR"
+            "55-inch display",
+            "4K UHD resolution",
+            "Smart TV features",
+            "HDR support"
         ],
-        "availability": true,
         "rating": 4.8
     },
     {
@@ -68,78 +64,253 @@
         "product_image": "https://i.ibb.co.com/FDvbfG6/07lr-PVKK2-Bexf9-Xi0s-KRl-Sa-1-fit-lim-size-919x518-v1678155979-removebg-preview.png",
         "category": "Accessories",
         "price": 29.99,
-        "description": "Sleek and silent wireless keyboard with long battery life.",
+        "description": "Compact and silent wireless keyboard with an ergonomic design.",
         "Specification": [
-            "Wireless",
+            "Wireless connectivity",
             "Silent keys",
             "2-year battery life",
             "Compact design"
         ],
-        "availability": true,
         "rating": 4.3
     },
     {
         "product_id": "P006",
         "product_title": "Stainless Steel Water Bottle",
         "product_image": "https://i.ibb.co.com/PcG1tK6/download-removebg-preview.png",
-        "category": "Outdoor",
+        "category": "Accessories",
         "price": 19.99,
-        "description": "Eco-friendly, insulated water bottle keeps drinks hot or cold.",
+        "description": "Eco-friendly stainless steel water bottle with double-wall insulation.",
         "Specification": [
-            "Stainless steel",
-            "Insulated",
+            "Stainless steel material",
+            "Double-wall insulation",
             "BPA-free",
             "500ml capacity"
         ],
-        "availability": true,
         "rating": 4.6
     },
     {
         "product_id": "P007",
         "product_title": "Gaming Headphone",
         "product_image": "https://i.ibb.co.com/GxpmRZ6/images-removebg-preview-1.png",
-        "category": "Personal Care",
+        "category": "Accessories",
         "price": 39.99,
-        "description": "Electric toothbrush with multiple modes and long battery life.",
+        "description": "High-quality gaming headphones with surround sound and noise isolation.",
         "Specification": [
-            "Rechargeable",
-            "3 brushing modes",
-            "Smart timer",
-            "Soft bristles"
+            "7.1 surround sound",
+            "Noise-isolating microphone",
+            "Comfortable ear cushions",
+            "RGB lighting"
         ],
-        "availability": false,
         "rating": 4.4
     },
     {
         "product_id": "P008",
         "product_title": "Gaming Mouse",
         "product_image": "https://i.ibb.co.com/MpYrhBh/images-removebg-preview-2.png",
-        "category": "Fitness",
+        "category": "Accessories",
         "price": 24.99,
-        "description": "Durable, non-slip yoga mat ideal for all types of yoga and exercise.",
+        "description": "Ergonomic gaming mouse with customizable buttons and RGB lighting.",
         "Specification": [
-            "Non-slip",
-            "Eco-friendly material",
-            "6mm thickness",
-            "Easy to clean"
+            "Adjustable DPI settings",
+            "RGB backlighting",
+            "Ergonomic grip",
+            "Customizable buttons"
         ],
-        "availability": true,
         "rating": 4.1
     },
     {
         "product_id": "P009",
         "product_title": "Gaming Casing",
         "product_image": "https://i.ibb.co.com/Ns8ZYqZ/download-removebg-preview-1.png",
-        "category": "Kitchen",
+        "category": "Accessories",
         "price": 29.99,
-        "description": "Compact portable blender, perfect for smoothies and shakes on the go.",
+        "description": "Stylish gaming PC case with tempered glass panel and RGB fans.",
         "Specification": [
-            "USB rechargeable",
-            "300ml capacity",
-            "Detachable cup",
-            "Powerful motor"
+            "Tempered glass side panel",
+            "Pre-installed RGB fans",
+            "Cable management support",
+            "ATX/mATX compatibility"
         ],
-        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P010",
+        "product_title": "I Phone",
+        "product_image": "https://i.ibb.co.com/fWt0WBn/Apple-i-Phone-16-hero-geo-240909-inline-jpg-large-removebg-preview.png",
+        "category": "phone",
+        "price": 29.99,
+        "description": "Premium smartphone with high-end performance and camera features.",
+        "Specification": [
+            "A17 Pro chip",
+            "6.7-inch OLED display",
+            "Triple-camera system",
+            "iOS 17"
+        ],
+        "rating": 4.8
+    },
+    {
+        "product_id": "P011",
+        "product_title": "Xiaomi 15Pro",
+        "product_image": "https://cdn.kalvo.com/uploads/img/gallery/66557-xiaomi-15-pro-2.jpg",
+        "category": "phone",
+        "price": 29.99,
+        "description": "Flagship Android smartphone with advanced camera and fast charging.",
+        "Specification": [
+            "Snapdragon 8 Gen 3",
+            "6.73-inch AMOLED display",
+            "200MP primary camera",
+            "HyperCharge 120W"
+        ],
+        "rating": 4.7
+    },
+    {
+        "product_id": "P012",
+        "product_title": "Walton Laptop",
+        "product_image": "https://i.ibb.co.com/LDMd49TG/Walton-Passion-BP7800-4-removebg-preview.png",
+        "category": "Laptop",
+        "price": 29.99,
+        "description": "Flagship Android smartphone with advanced camera and fast charging.",
+        "Specification": [
+            "Snapdragon 8 Gen 3",
+            "6.73-inch AMOLED display",
+            "200MP primary camera",
+            "HyperCharge 120W"
+        ],
+        "rating": 4.7
+    },
+    {
+        "product_id": "P013",
+        "product_title": "Asus K501",
+        "product_image": "https://dlcdnimgs.asus.com/websites/global/products/rZRNVfYdymO3rpit/img/00/fg.png",
+        "category": "Laptop",
+        "price": 29.99,
+        "description": "Flagship Android smartphone with advanced camera and fast charging.",
+        "Specification": [
+            "Snapdragon 8 Gen 3",
+            "6.73-inch AMOLED display",
+            "200MP primary camera",
+            "HyperCharge 120W"
+        ],
+        "rating": 4.7
+    },
+    {
+        "product_id": "P014",
+        "product_title": "MacBook Pro Apple",
+        "product_image": "https://i.ibb.co.com/1G1r7dTC/0000024-apple-macbook-pro-550-removebg-preview.png",
+        "category": "Laptop",
+        "price": 29.99,
+        "description": "Flagship Android smartphone with advanced camera and fast charging.",
+        "Specification": [
+            "Snapdragon 8 Gen 3",
+            "6.73-inch AMOLED display",
+            "200MP primary camera",
+            "HyperCharge 120W"
+        ],
+        "rating": 4.7
+    },
+    {
+        "product_id": "P015",
+        "product_title": "Gimbal Stand",
+        "product_image": "https://i.ibb.co.com/0p48rKfZ/png-transparent-gimbal-camera-stabilizer-follow-focus-digital-slr-camera-angle-lens-camera-lens-thum.png",
+        "category": "Accessories",
+        "price": 15.99,
+        "description": "A high-precision gimbal stand designed to stabilize your camera or smartphone for smooth video recording.",
+        "Specification": [
+            "3-axis stabilization",
+            "Adjustable height",
+            "Lightweight and portable",
+            "Compatible with most smartphones and cameras"
+        ],
+        "rating": 4.5
+    },
+    {
+        "product_id": "P016",
+        "product_title": "Camera Drone",
+        "product_image": "https://png.pngtree.com/png-vector/20241015/ourmid/pngtree-elegant-black-camera-drone-transparent-background-png-image_14094425.png",
+        "category": "Accessories",
+        "price": 299.99,
+        "description": "A high-performance camera drone with 4K recording and advanced flight stabilization for professional aerial photography.",
+        "Specification": [
+            "4K UHD camera",
+            "GPS-assisted flight",
+            "Obstacle avoidance",
+            "Long battery life (up to 30 minutes)"
+        ],
+        "rating": 4.7
+    },
+    {
+        "product_id": "P017",
+        "product_title": "Android 360",
+        "product_image": "https://i.ibb.co.com/wNyhBg0V/png-clipart-smartwatch-camera-android-360-degree-360-degree-arrows-electronics-watch-accessory-remov.png",
+        "category": "Smartwatch",
+        "price": 199.99,
+        "description": "A premium smartwatch with 360-degree rotating camera, fitness tracking, and long battery life.",
+        "Specification": [
+            "360-degree rotating camera",
+            "Heart rate & fitness tracking",
+            "Water-resistant",
+            "Up to 7 days battery life"
+        ],
+        "rating": 4.5
+    },
+    {
+        "product_id": "P018",
+        "product_title": "Zxa 4949",
+        "product_image": "https://i.ibb.co.com/hJHM9DsL/png-clipart-apple-watch-series-3-iphone-smartwatch-apple-electronics-apple-watch-thumbnail-removebg.png",
+        "category": "Smartwatch",
+        "price": 249.99,
+        "description": "A stylish and feature-packed smartwatch with health tracking and seamless smartphone connectivity.",
+        "Specification": [
+            "Advanced health tracking (Heart rate, SpO2, Sleep monitoring)",
+            "Bluetooth calling & notifications",
+            "Waterproof design",
+            "Up to 10 days battery life"
+        ],
+        "rating": 4.6
+    },
+    {
+        "product_id": "P019",
+        "product_title": "I Phone 16",
+        "product_image": "https://i.ibb.co.com/fWt0WBn/Apple-i-Phone-16-hero-geo-240909-inline-jpg-large-removebg-preview.png",
+        "category": "Iphone",
+        "price": 1199.99,
+        "description": "The latest flagship iPhone with cutting-edge technology, improved battery life, and an advanced camera system.",
+        "Specification": [
+            "A18 Pro chip",
+            "6.9-inch Super Retina XDR display",
+            "Quad-camera system with LiDAR",
+            "iOS 18"
+        ],
+        "rating": 4.9
+    },
+    {
+        "product_id": "P020",
+        "product_title": "I Phone 14 ProMax",
+        "product_image": "https://i.ibb.co.com/jdsrPVg/download-removebg-preview-2.png",
+        "category": "Iphone",
+        "price": 999.99,
+        "description": "A high-end smartphone featuring ProMotion technology, superior camera quality, and exceptional performance.",
+        "Specification": [
+            "A16 Bionic chip",
+            "6.7-inch OLED ProMotion display",
+            "Triple-camera system with night mode",
+            "iOS 16"
+        ],
+        "rating": 4.7
+    },
+    {
+        "product_id": "P021",
+        "product_title": "I Phone XR",
+        "product_image": "https://i.ibb.co.com/d44RxSZF/images-removebg-preview-3.png",
+        "category": "Iphone",
+        "price": 599.99,
+        "description": "A budget-friendly iPhone with a Liquid Retina display and long battery life.",
+        "Specification": [
+            "A12 Bionic chip",
+            "6.1-inch Liquid Retina display",
+            "Single-camera system with Smart HDR",
+            "iOS 14"
+        ],
         "rating": 4.5
     }
 ]
