@@ -1,8 +1,8 @@
 1. Attach Live Website Link:
-useful-mhsebermeeting.surge.sh
+https://useful-mhsebermeeting.surge.sh/
 
 2. Attach Requirement Document Link:
-file:///D:/milestone-8/module-48/B10-A8-gadget-heaven/Batch-10_Assignment-08.pdf
+https://github.com/mhseber/Assignment-8
 
 3. List of React Fundamental concepts used in the project
 
