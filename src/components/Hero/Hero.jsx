@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import BannerImg from '/img/banner.jpg'
+import BannerImg from '../../../public/img/banner.jpg'
 import { useEffect } from 'react';
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -28,7 +28,7 @@ const Hero = () => {
                 <img
                     data-aos="fade-up"
                     data-aos-delay="500"
-                    className=" w-[800px] h-[400px] rounded-3xl pt-4 shadow-xl shadow-violet-500" src={BannerImg} alt="" />
+                    className=" w-[800px] h-[400px] rounded-3xl pt-4 shadow-xl shadow-violet-500" src={BannerImg} alt="img" />
             </div>
 
         </div>
